@@ -10,3 +10,17 @@ An intelligent Java-based notepad application built using Swing with features li
 - Fullscreen toggle
 - Word and character counter
 </pre>
+<pre>
+<h3> Project Structure</h3>
+NOTEPAD  
+│
+├── MyNotepad  
+│   ├── Prediction.java  
+│   ├── Spell_check.java  
+│   ├── TrainData.txt  
+│   └── dictionary.txt  
+│
+├── README.md  
+└── SPL1.java  
+
+</pre>
