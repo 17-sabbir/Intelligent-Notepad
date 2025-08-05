@@ -1,11 +1,9 @@
- # Intelligent-Notepad
-    <dl>
-        <dt>Before Running</dt>
-        <dd>Make sure that the dictionary file (dictionary.txt) and training data file (TrainData.txt) are located in
-            the
-            correct paths as referenced in your code.</dd>
-    </dl>
-    <pre>
+# Intelligent-Notepad
+ <h2> Before Running</h2>
+ <p>Make sure that the dictionary file (dictionary.txt) and training data file (TrainData.txt) are located in the
+    correct paths as referenced in your code.</p>
+ 
+ <pre>
 An intelligent Java-based notepad application built using Swing with features like:
 - Spell checking with suggestion
 - Word prediction using n-gram models (unigram, bigram, trigram)
@@ -13,9 +11,7 @@ An intelligent Java-based notepad application built using Swing with features li
 - Special character insertion
 - Fullscreen toggle
 - Word and character counter
-</pre>
-    <pre>
-<h3> Project Structure</h3>
+<h2> Project Structure</h2>
 NOTEPAD  
 │
 ├── MyNotepad  
