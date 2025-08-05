@@ -1,7 +1,7 @@
 # Intelligent-Notepad
  <h2> Before Running</h2>
  <p>Make sure that the dictionary file (dictionary.txt) and training data file (TrainData.txt) are located in the
-    correct paths as referenced in your code.</p>
+    correct paths as referenced in code.</p>
  
  <pre>
 An intelligent Java-based notepad application built using Swing with features like:
@@ -13,13 +13,11 @@ An intelligent Java-based notepad application built using Swing with features li
 - Word and character counter
 <h2> Project Structure</h2>
 NOTEPAD  
-│
 ├── MyNotepad  
 │   ├── Prediction.java  
 │   ├── Spell_check.java  
 │   ├── TrainData.txt  
 │   └── dictionary.txt  
-│
 ├── README.md  
 └── SPL1.java  
 
